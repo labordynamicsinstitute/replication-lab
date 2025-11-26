@@ -16,4 +16,4 @@ For this project, students attempted to reproduce the tables and figures of arti
     
 </div>
 
-The project is currently on hold. Preliminary results were presented at BITSS 2018. 
+The project has ended for now. Preliminary results were presented at BITSS 2018. See Herbert et al 2024 for publication.

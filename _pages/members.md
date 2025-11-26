@@ -2,6 +2,7 @@
 layout: page
 permalink: /members/
 title: Members
+nav: true
 description: Our Lab Members
 ---
 
