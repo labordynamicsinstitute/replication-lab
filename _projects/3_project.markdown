@@ -1,7 +1,7 @@
 ---
 layout: page
 title: BITSS ACRE
-description: Advancing Computational Reproducibility in Economics 
+description: Advancing Computational Reproducibility in Economics
 img: /assets/img/bitss-logo.png
 ---
 

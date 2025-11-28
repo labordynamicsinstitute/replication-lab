@@ -7,5 +7,4 @@ inline: false
 
 Preliminary results from the Replication Lab presented at the BITSS Annual Meeting 2018.
 
-***
-
+---

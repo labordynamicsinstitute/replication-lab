@@ -14,12 +14,9 @@ Lars Vilhuber
 
 <h3 class="year">Assistant</h3>
 
-
 <b>Ilanith Nizard</b>,
 Michael Darisse,
 Sofia Encarnacion
-
-
 
 <h3 class="year">Graduate Assistants</h3>
 
@@ -37,7 +34,6 @@ Tashfeen Saeed
 Vaios Triantafyllou
 Zebang Xu
 Zihui Zhao
-
 
 <h3 class="year">Undergraduate Assistants</h3>
 

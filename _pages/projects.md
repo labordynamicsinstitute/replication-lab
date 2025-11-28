@@ -9,6 +9,7 @@ description: Our current projects
 {% for project in site.projects %}
 
 {% if project.redirect %}
+
 <div class="project">
     <div class="thumbnail">
         <a href="{{ project.redirect }}" target="_blank">

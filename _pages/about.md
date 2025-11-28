@@ -17,4 +17,3 @@ social: true
 ---
 
 The <strong>LDI Replication Lab</strong> works on pre- and post-publication verification of data and code for journal articles. We check if the documentation is comprehensible, and verify that the code provided by the authors runs, and produces expected results.
-

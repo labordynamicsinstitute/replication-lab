@@ -7,7 +7,6 @@ nav_order: 2
 description: Papers by project members
 ---
 
-
 <!-- _pages/publications.md -->
 
 <!-- Bibsearch Feature -->
