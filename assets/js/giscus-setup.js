@@ -18,7 +18,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "labordynamicsinstitute/replication-lab-new",
+    "data-repo": "labordynamicsinstitute/replication-lab",
     "data-repo-id": "",
     "data-category": "Comments",
     "data-category-id": "",
