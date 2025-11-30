@@ -18,4 +18,4 @@ Since his appointment as AEA Data Editor in early 2018, Lars Vilhuber has been p
     These are the journals we currently cover.
 </div>
 
-More information can be found on the [AEA Data Editor's website](https://aeadataeditor.github.io/).
+More information can be found on the [AEA Data Editor's website](https://aeadataeditor.github.io/). A [summary of the various outcomes](https://aeadataeditor.github.io/aea-cumulative-summary/) is available, occasionally updated.
