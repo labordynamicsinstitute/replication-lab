@@ -14,4 +14,6 @@ For this project, students attempted to reproduce the tables and figures of arti
     
 </div>
 
-The project has ended for now. Preliminary results were presented at BITSS 2018. See Herbert et al 2024 for publication.
+Results from this activity were published in [@herbertReproduceValidateComprehensive2024]. 
+
+{% bibliography --file papers %}
