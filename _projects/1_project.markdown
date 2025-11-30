@@ -14,6 +14,6 @@ For this project, students attempted to reproduce the tables and figures of arti
     
 </div>
 
-Results from this activity were published in [@herbertReproduceValidateComprehensive2024]. 
+Results from this activity were published in {% cite herbertReproduceValidateComprehensive2024 %}. 
 
-{% bibliography --file papers %}
+{% bibliography --cited %}

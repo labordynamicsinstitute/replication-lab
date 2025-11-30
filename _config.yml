@@ -261,8 +261,8 @@ display_tags: ["conference", "papers", "reports"] # these tags will be displayed
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Vilhuber]
+  first_name: [Lars]
 
   style: apa
   locale: en
