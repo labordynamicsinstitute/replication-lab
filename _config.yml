@@ -7,7 +7,7 @@ email: ldi@cornell.edu
 description: > # this means to ignore newlines until "url:"
   We replicate papers in economics.
 contact_note: >
-  We regularly hire new students to work for us.
+  We regularly <a href="https://www.ilr.cornell.edu/labor-dynamics-institute/ldi-replication-lab">hire new students</a> to work with us.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
