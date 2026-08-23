@@ -4,6 +4,11 @@
     <div class="container">
       {% if page.permalink != '/' %}
         <a class="navbar-brand title font-weight-lighter" href="{{ site.baseurl }}/">
+          <img
+            class="navbar-logo"
+            src="{{ '/assets/img/LDIimage_11.22.19_FINALv1.jpg' | relative_url }}"
+            alt="LDI logo"
+          />
           {% if site.title == 'blank' %}
             {% if site.first_name %}
               <span class="font-weight-bold">
