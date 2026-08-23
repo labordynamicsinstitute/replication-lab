@@ -301,6 +301,15 @@ ul.task-list input[type="checkbox"] {
     color: var(--global-text-color);
   }
 
+  .navbar-logo {
+    height: 30px;
+    width: 30px;
+    object-fit: cover;
+    border-radius: 50%;
+    margin-right: 0.5rem;
+    vertical-align: middle;
+  }
+
   .navbar-nav .nav-item .nav-link {
     color: var(--global-text-color);
 
