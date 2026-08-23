@@ -23,13 +23,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/replication-lab/projects/";
           },
-        },{id: "nav-blog",
-          title: "Blog",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/replication-lab/blog/";
-          },
         },{id: "nav-publications",
           title: "Publications",
           description: "Papers by project members",
@@ -37,29 +30,14 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/replication-lab/publications/";
           },
-        },{id: "post-preliminary-results-presented-at-bitss-annual-meeting-2018",
-        
-          title: "Preliminary results presented at BITSS Annual Meeting 2018",
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/replication-lab/blog/2018/12/announcement2/";
-          
-        },
-      },{id: "post-lars-vilhuber-appointed-as-aea-data-editor",
-        
-          title: "Lars Vilhuber  appointed as  AEA Data Editor",
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/replication-lab/blog/2018/01/announcement/";
-          
-        },
-      },{id: "news-a-simple-inline-announcement",
+        },{id: "nav-training",
+          title: "Training",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/replication-lab/https:/labordynamicsinstitute.github.io/replicability-training/";
+          },
+        },{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
           section: "News",},{id: "news-a-long-announcement-with-details",
